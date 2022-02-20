@@ -16,6 +16,7 @@ public class TestCheck {
         for (Method method : methods){
             if (method.isAnnotationPresent(Check.class)){
                 try{
+
                     method.invoke(c);
                 }catch (Exception e){
                     number++;

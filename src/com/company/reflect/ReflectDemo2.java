@@ -32,3 +32,5 @@ public class ReflectDemo2 {
         System.out.println(value2);
     }
 }
+
+

@@ -5,6 +5,7 @@ public class Calculator {
     public void add(){
             String str=null;
             int length=str.length();
+
             System.out.println("1+0="+(1+0));
         }
     @Check

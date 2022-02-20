@@ -29,3 +29,5 @@ public class ReflectDemo4 {
         System.out.println(className);
     }
 }
+
+

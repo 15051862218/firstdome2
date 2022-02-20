@@ -24,3 +24,5 @@ public class ReflectDemo3 {
         constructor1.setAccessible(true);
     }
 }
+
+

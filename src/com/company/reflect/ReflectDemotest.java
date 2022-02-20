@@ -25,3 +25,5 @@ public class ReflectDemotest {
         method.invoke(obj);
     }
 }
+
+
