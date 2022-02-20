@@ -7,9 +7,7 @@ import java.lang.reflect.Method;
 public class ReflectTest {
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException, InstantiationException {
         Class<?> reflectTestClass =ReflectTest.class;
-
-
-
+        
         Pro an =reflectTestClass.getAnnotation(Pro.class);
 
         String className=an.className();
